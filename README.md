@@ -1,2 +1,0 @@
-# thecasesaretwo
-A Novel generator
